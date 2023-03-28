@@ -1,0 +1,57 @@
+.countainer {
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  background: linear-gradient(rgb(0, 251, 255), rgb(242, 242, 172));
+}
+form {
+  text-align: center;
+  font-size: larger;
+  display: inline;
+  margin-left: 100px;
+}
+.box {
+  width: 30%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  background: antiquewhite;
+  border-radius: 5px;
+}
+.search {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: antiquewhite;
+  background: rgb(52, 52, 234);
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+.currentWeather {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: antiquewhite;
+  background: rgb(36, 143, 32);
+  border: 1px solid rgb(13, 74, 35);
+  border-radius: 5px;
+  font-size: larger;
+}
+
+.prediction {
+  margin-left: 100px;
+}
+.windSpeed {
+  margin-top: 50px;
+}
+
+.theSky {
+  text-transform: capitalize;
+}
