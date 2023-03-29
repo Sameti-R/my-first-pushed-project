@@ -1,14 +1,14 @@
-.countainer {
+.mainPage {
   margin-top: 50px;
   margin-left: 200px;
   margin-right: 200px;
   padding-top: 20px;
   padding-bottom: 20px;
-
   border: 1px solid black;
   border-radius: 10px;
   background: linear-gradient(rgb(0, 251, 255), rgb(242, 242, 172));
 }
+
 form {
   text-align: center;
   font-size: larger;
@@ -54,4 +54,11 @@ form {
 
 .theSky {
   text-transform: capitalize;
+}
+
+.myLink {
+  text-transform: capitalize;
+
+  color: rgb(181, 36, 36);
+  margin-left: 200px;
 }
